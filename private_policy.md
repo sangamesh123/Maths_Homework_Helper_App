@@ -50,9 +50,15 @@ Google Ads: https://policies.google.com/technologies/ads
 
 <h3>5. Children’s Privacy</h3>
 
-Our app is for children under 13 and above.
+Our Service is designed for children under 13, and we comply with COPPA and similar laws.
 
-We do not knowingly collect personal information from children.
+We do not knowingly collect personal information from children without parental consent.
+
+If you are a parent or guardian, you may provide consent for your child’s data collection.
+
+Data collected from children is used solely to provide and improve App functionality.
+
+Parents may review, modify, or request deletion of their child’s data by contacting us
 
 
 
