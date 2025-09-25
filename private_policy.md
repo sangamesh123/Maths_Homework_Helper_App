@@ -3,14 +3,16 @@ Privacy Policy for **Maths Homework Helper**
 Effective Date: 25-Sep-2025
 
 
+<h2>
+  1. Introduction
+</h2>
 
-**1. Introduction**
 
 Maths Homework Helper application respects your privacy. This Privacy Policy explains how we collect, use, and share information in connection with our app, including advertisements from third-party networks, to ensure compliance with Google Play policies.
 
 
 
-**2. Information We Collect**
+<h3>2. Information We Collect</h3>
 
 We may collect the following types of information:
 
@@ -22,7 +24,7 @@ Advertising Information: Ads shown may collect anonymous data (via third-party a
 
 
 
-**3. How We Use Information**
+<h3>3. How We Use Information</h3>
 
 To deliver and improve our app experience.
 
@@ -32,7 +34,7 @@ To analyze usage trends and fix technical issues.
 
 
 
-**4. Third-Party Ads and Analytics**
+<h3>4. Third-Party Ads and Analytics</h3>
 
 We use third-party advertising networks (e.g., Google AdMob) that may collect data to provide personalized ads.
 
@@ -46,7 +48,7 @@ Google Ads: https://policies.google.com/technologies/ads
 
 
 
-**5. Children’s Privacy**
+<h3>5. Children’s Privacy</h3>
 
 Our app is for children under 13 and above.
 
@@ -54,7 +56,7 @@ We do not knowingly collect personal information from children.
 
 
 
-**6. Data Security**
+<h3>6. Data Security</h3>
 
 We implement reasonable technical measures to protect your data.
 
@@ -62,13 +64,13 @@ Since most data collected is anonymous, risk to personal data is minimal.
 
 
 
-**7. Data Retention**
+<h3>7. Data Retention</h3>
 
 We retain anonymous usage and ad data only as long as necessary for app functionality and analytics.
 
 
 
-**8. Your Rights**
+<h3>8. Your Rights</h3>
 
 You can opt out of personalized ads through your device settings:
 
@@ -78,7 +80,7 @@ You may contact us for any privacy concerns at: sangameshnmath@gmail.com
 
 
 
-**9. Updates to This Policy**
+<h3>9. Updates to This Policy</h3>
 
 We may update this Privacy Policy occasionally. Changes will be posted in the app or on our website.
 
@@ -86,6 +88,6 @@ Continued use of the app indicates acceptance of any changes.
 
 
 
-**10. Contact Us**
+<h3>10. Contact Us</h3>
 
 Questions or concerns? Contact us at: Sangameshnmath@gmail.com
